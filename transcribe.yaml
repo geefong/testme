@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: "2010-09-09"
-Description: "Create Lambda S3 triggger"
+Description: "Create Lambda S3 triggger, test gitsync"
 
 Parameters:
   MyBucketName:
